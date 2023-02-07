@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=KNOTEN
+comment1.params=k\ l
+comment1.target=KNOTEN(KUNDE,\ LISTENELEMENT)
+comment2.params=l
+comment2.target=void\ nachfolgerSetzen(LISTENELEMENT)
+comment3.params=
+comment3.target=LISTENELEMENT\ nachfolgerGeben()
+comment4.params=
+comment4.target=int\ laengeGeben()
+comment5.params=k
+comment5.target=void\ kundeSetzen(KUNDE)
+comment6.params=kunde
+comment6.target=KNOTEN\ hintenEinfuegen(KUNDE)
+comment7.params=
+comment7.target=KUNDE\ kundeGeben()
+numComments=8

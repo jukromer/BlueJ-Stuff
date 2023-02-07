@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=KUNDE
+comment1.params=name2\ alter2
+comment1.target=KUNDE(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ alterGeben()
+comment3.params=
+comment3.target=java.lang.String\ nameGeben()
+comment4.params=name
+comment4.target=boolean\ vergleichen(java.lang.String)
+numComments=5

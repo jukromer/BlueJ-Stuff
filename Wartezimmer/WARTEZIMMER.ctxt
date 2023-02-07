@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WARTEZIMMER
+comment1.params=plaetzeNeu
+comment1.target=WARTEZIMMER(int)
+comment2.params=vorname\ nachname\ alter\ gesund
+comment2.target=void\ neuerPatient(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ testpatientenHinzufuegen()
+comment4.params=
+comment4.target=void\ wartendePatientenAusgeben()
+numComments=5

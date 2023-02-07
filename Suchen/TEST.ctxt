@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TEST
+comment1.params=
+comment1.target=TEST()
+comment2.params=
+comment2.target=void\ laengeGeben()
+comment3.params=
+comment3.target=void\ entfernen()
+comment4.params=name
+comment4.target=KUNDE\ suchen(java.lang.String)
+comment5.params=
+comment5.target=void\ ausgeben()
+comment6.params=name
+comment6.target=void\ entfernen2(java.lang.String)
+numComments=7

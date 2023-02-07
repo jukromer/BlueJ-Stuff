@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=WARTEZIMMER
+comment1.params=
+comment1.target=WARTEZIMMER()
+comment2.params=
+comment2.target=void\ anfangEntfernen()
+comment3.params=p
+comment3.target=void\ patientEinf\u00FCgen(PATIENT)
+comment4.params=
+comment4.target=void\ wartendePatientenAusgeben()
+comment5.params=
+comment5.target=int\ AnzahlGeben()
+comment6.params=
+comment6.target=int\ AnzahlGeben2()
+comment7.params=p\ name
+comment7.target=void\ bestimmtenPatientEntfernen(PATIENT,\ java.lang.String)
+comment8.params=p
+comment8.target=void\ anfangSetzen(PATIENT)
+comment9.params=
+comment9.target=void\ Behandelter()
+numComments=10

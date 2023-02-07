@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=data
+comment1.target=Knoten(Datenelement)
+comment2.params=k
+comment2.target=Baumelement\ Einfuegen(Kunde)
+comment3.params=
+comment3.target=Datenelement\ getData()
+comment4.params=
+comment4.target=void\ ausgeben()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ABSCHLUSS
+comment1.params=
+comment1.target=int\ laengeGeben()
+comment2.params=kunde
+comment2.target=KNOTEN\ hintenEinfuegen(KUNDE)
+comment3.params=
+comment3.target=LISTENELEMENT\ nachfolgerGeben()
+comment4.params=name
+comment4.target=KUNDE\ suchen(java.lang.String)
+comment5.params=
+comment5.target=KUNDE\ kundeGeben()
+comment6.params=k
+comment6.target=KNOTEN\ sortiertEinfuegen(DATENELEMENT)
+comment7.params=
+comment7.target=void\ ausgeben()
+comment8.params=name
+comment8.target=void\ suchenEntfernen(java.lang.String)
+numComments=9

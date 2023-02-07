@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Kunde
+comment1.params=
+comment1.target=int\ getID()
+comment2.params=ID
+comment2.target=Kunde(int)
+numComments=3

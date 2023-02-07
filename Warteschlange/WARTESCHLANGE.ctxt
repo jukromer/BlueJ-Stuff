@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WARTESCHLANGE
+comment1.params=
+comment1.target=WARTESCHLANGE()
+comment2.params=k
+comment2.target=void\ kundeEinf\u00FCgen(KUNDE)
+comment3.params=
+comment3.target=void\ kundeEntfernen()
+comment4.params=
+comment4.target=void\ alleAusgeben()
+numComments=5

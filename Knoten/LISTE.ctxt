@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LISTE
+comment1.params=k
+comment1.target=void\ anfangSetzen(KNOTEN)
+comment2.params=
+comment2.target=int\ laengeGeben()
+comment3.params=kunde
+comment3.target=void\ hintenEinfuegen(KUNDE)
+comment4.params=
+comment4.target=KNOTEN\ erstesElementEnfernen()
+numComments=5

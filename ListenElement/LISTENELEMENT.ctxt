@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LISTENELEMENT
+comment1.params=kunde
+comment1.target=KNOTEN\ hintenEinfuegen(KUNDE)
+comment2.params=
+comment2.target=int\ laengeGeben()
+comment3.params=
+comment3.target=LISTENELEMENT\ nachfolgerGeben()
+numComments=4
